@@ -70,27 +70,34 @@ projects:
       - title: Interview Scheduler
         link: "https://github.com/LHY927/scheduler-2023"
         tagline: "A Scheduler that the user can create, edit and delete interview appointments.
-        Front-end: HTML, CSS, React
-        Back-end: Node, Express, SQL
-        Test: Jest, Storybook, Cypress"
+        \nFront-end: HTML, CSS, React
+        \nBack-end: Node, Express, SQL
+        \nTest: Jest, Storybook, Cypress"
 
       - title: Lotide
         link: "https://github.com/LHY927/lotide"
-        tagline: "The Lotide project is inspired by the Lodash project, which is a utility library for JavaScript. While Lodash itself is quite powerful, my version of it is simpler in order to focus on learning the fundamentals of programming and data management using JavaScript.
-
-The Lotide project is a modular collection of functions that operate on data, namely Arrays and Objects. The development of the project applied FOCAL (Functions, Objects, Conditionals, Arrays, Loops) as well as writing modular code and Automated Testing (by writing unit tests with Mocha and Chai), then finally published to NPM."
-
+        tagline: "The Lotide project is inspired by the Lodash project. It works as a modular collection of functions that operate on data, namely Arrays and Objects. The development of the project applied FOCAL (Functions, Objects, Conditionals, Arrays, Loops) as well as writing modular code and Automated Testing (by writing unit tests with Mocha and Chai), then finally published to NPM."
+      
       - title: Snake
         link: "https://github.com/LHY927/snake-client"
         tagline: "Created TCP clients using Node.js and built a client application that allows users to connect to the server and join the multiplayer Snake game, which is a video game concept where the player manoeuvres a dot and grows it by ‘eating’ pieces of food. "
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: TinyApp
+        link: "https://github.com/LHY927/tinyapp-"
+        tagline: "TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly)."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Tweeter
+        link: "https://github.com/LHY927/tweeter"
+        tagline: "Tweeter is a simple, single-page Twitter clone, involves in HTML, CSS, JS, jQuery and AJAX front-end skills, and Node, Express back-end skills."
+
+      - title: LightBnB
+        link: "https://github.com/LHY927/LightBnB"
+        tagline: "This project is the database for hte LightBnB project, it could provide interfaces for users to interact with the database."
+      
+      - title: PhotoLabs
+        link: "https://github.com/LHY927/photolabs-starter"
+        tagline: "Project for photo library display, implemented with React and node.js."
+
 
 oss:
     title: Skills
@@ -116,28 +123,6 @@ oss:
       - title: Additional Skills
         link: 
         tagline: "Google Workspace, Github collaboration"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
