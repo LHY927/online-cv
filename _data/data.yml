@@ -13,18 +13,18 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: liuhaiyue0927@gmail.com
+    phone: 226-998-9927
+    timezone: Eastern Time Zone (ET)
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: https://www.linkedin.com/in/haiyue-liu-20b548302/
+    xing: 
+    github: https://github.com/LHY927
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,61 +33,29 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese(Mandarin)
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am currently a master's student majoring in Electrical Computer Engineering at Western University. I have a passion for the fields of software development and electrical engineering. Within my past project experiences, I familiarized myself with different stacks including frontend (React.js, jQuery, HTML, CSS and Sass), backend (Ruby on Rails, Python, node.js) and database (PostgreSQL). I am open to different challenges and opportunities, looking forward to a further career in the tech industry.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MEng in Electrical Computer Engineering
+        university: Western University
+        time: 2023 - 2025
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Study as an Electrical and Computer Engineering M.Eng. student in Communications & Signal Processing. Learned multiple courses in the field of Software Engineering and Telecommunications.
+      - degree: BSc in Telecommunications Engineering with Management
+        university: Queen Mary University of London
+        time: 2018 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          During my bachelor's study, I focused on the field of telecommunication while also taking courses in related fields including electrical engineering and software development.
 
 experiences:
     title: Experiences
