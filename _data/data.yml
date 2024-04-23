@@ -46,6 +46,11 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: Full-Stack Web Development
+        university: Lighthouse Labs
+        time: 2023 - 2024
+        details: |
+          Learned 
       - degree: MEng in Electrical Computer Engineering
         university: Western University
         time: 2023 - 2025
@@ -57,13 +62,13 @@ education:
         details: |
           During my bachelor's study, I focused on the field of telecommunication while also taking courses in related fields including electrical engineering and software development.
 skills:
-    title: Skills &amp;
+    title: Skills
     info:
-      - LANGUAGES: JavaScript, Ruby, HTML, CSS
-      - FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS: NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, ActiveRecord, Rails, SASS
-      - TESTING: Storybook, Cypress, RSpec, Jest, Mocha, Chai
-      - SYSTEMS, CMS, AND DATABASES: SQL, Git
-      - ADDITIONAL SKILLS: Photoshop, Google Workspace / Suite
+      - title: LANGUAGES - JavaScript, Ruby, HTML, CSS
+      - title: FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS - NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, ActiveRecord, Rails, SASS
+      - title: TESTING - Storybook, Cypress, RSpec, Jest, Mocha, Chai
+      - title: SYSTEMS, CMS, AND DATABASES - SQL, Git
+      - title: ADDITIONAL SKILLS - Photoshop, Google Workspace / Suite
 
 projects:
     title: Projects
