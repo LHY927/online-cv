@@ -65,13 +65,14 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Interview Scheduler
+        link: "https://github.com/LHY927/scheduler-2023"
+        tagline: "A Scheduler that the user can create, edit and delete interview appointments.
+        Front-end: HTML, CSS, React
+        Back-end: Node, Express, SQL
+        Test: Jest, Storybook, Cypress"
 
       - title: DevStudio
         link: "#"
