@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Haiyue Liu
     tagline: Ontario, Canada
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: liuhaiyue0927@gmail.com
