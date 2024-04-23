@@ -46,11 +46,11 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Full-Stack Web Development
+      - degree: Diploma - Full Stack Web Development
         university: Lighthouse Labs
         time: 2023 - 2024
         details: |
-          Learned 
+          Learned to be a full-stack web developer at the bootcamp of Lighthouse Labs, which includes topics of both front-end (React.js, jQuery) and back-end (Ruby-on-Rails, node.js) contents.
       - degree: MEng in Electrical Computer Engineering
         university: Western University
         time: 2023 - 2025
@@ -61,14 +61,6 @@ education:
         time: 2018 - 2022
         details: |
           During my bachelor's study, I focused on the field of telecommunication while also taking courses in related fields including electrical engineering and software development.
-skills:
-    title: Skills
-    info:
-      - title: LANGUAGES - JavaScript, Ruby, HTML, CSS
-      - title: FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS - NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, ActiveRecord, Rails, SASS
-      - title: TESTING - Storybook, Cypress, RSpec, Jest, Mocha, Chai
-      - title: SYSTEMS, CMS, AND DATABASES - SQL, Git
-      - title: ADDITIONAL SKILLS - Photoshop, Google Workspace / Suite
 
 projects:
     title: Projects
@@ -98,23 +90,31 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Skills
     intro: >
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
+      - title: Languages
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "JavaScript, Ruby, HTML, CSS"
 
-      - title: Atom
+      - title: Frameworks, Libraries, and Environments
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, ActiveRecord, Rails, SASS"
 
-      - title: Delta
+      - title: Testing
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Storybook, Cypress, RSpec, Jest, Mocha, Chai"
+
+      - title: Systems, CMS, and Databases
+        link: "#"
+        tagline: "SQL, Git"
+
+      - title: Additional Skills
+        link: "#"
+        tagline: "Google Workspace, Github collaboration"
 
 publications:
     title: Publications
