@@ -74,13 +74,15 @@ projects:
         Back-end: Node, Express, SQL
         Test: Jest, Storybook, Cypress"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Lotide
+        link: "https://github.com/LHY927/lotide"
+        tagline: "The Lotide project is inspired by the Lodash project, which is a utility library for JavaScript. While Lodash itself is quite powerful, my version of it is simpler in order to focus on learning the fundamentals of programming and data management using JavaScript.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+The Lotide project is a modular collection of functions that operate on data, namely Arrays and Objects. The development of the project applied FOCAL (Functions, Objects, Conditionals, Arrays, Loops) as well as writing modular code and Automated Testing (by writing unit tests with Mocha and Chai), then finally published to NPM."
+
+      - title: Snake
+        link: "https://github.com/LHY927/snake-client"
+        tagline: "Created TCP clients using Node.js and built a client application that allows users to connect to the server and join the multiplayer Snake game, which is a video game concept where the player manoeuvres a dot and grows it by ‘eating’ pieces of food. "
 
       - title: Atom
         link: "#"
@@ -93,28 +95,26 @@ projects:
 oss:
     title: Skills
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
       - title: Languages
-        link: "#"
+        link: 
         tagline: "JavaScript, Ruby, HTML, CSS"
 
       - title: Frameworks, Libraries, and Environments
-        link: "#"
+        link: 
         tagline: "NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, ActiveRecord, Rails, SASS"
 
       - title: Testing
-        link: "#"
+        link: 
         tagline: "Storybook, Cypress, RSpec, Jest, Mocha, Chai"
 
       - title: Systems, CMS, and Databases
-        link: "#"
+        link: 
         tagline: "SQL, Git"
 
       - title: Additional Skills
-        link: "#"
+        link: 
         tagline: "Google Workspace, Github collaboration"
 
 publications:
