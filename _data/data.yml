@@ -62,6 +62,18 @@ education:
         details: |
           During my bachelor's study, I focused on the field of telecommunication while also taking courses in related fields including electrical engineering and software development.
 
+experiences:
+    title: Experiences
+    info:
+      - role: Intern
+        time: 2021.7 - 2021.9
+        company: INDUSTRIAL AND COMMERCIAL BANK OF CHINA
+        details: |
+            - Maintained the Cloud-Computing system of the Industrial and Commercial Bank of China (ICBC).
+            - Researched methods and innovative processes to improve efficiency of network systems.
+            - Utilized knowledge of electronic and computer engineering to research 5G functionalities such as enhanced mobile broadband (eMBB), ultra-reliability and low latency communication (uRLL), and massive machine-type communications (mMTC).
+            - Provided report to management about applications of 5G.
+
 projects:
     title: Projects
     intro: >
